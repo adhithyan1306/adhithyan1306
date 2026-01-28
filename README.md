@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Electronics and Biomedical Engineering (its fun and .....)
 - 💞️ I’m looking to collaborate like any things especially microcontrroller and hardware related cause i love to learn about them
 
-- 😄 Pronouns:Straight(he/Him ig)
+- 😄 Pronouns:Straight(He/Him ig)
+
+
 
 <!---
 adhithyan1306/adhithyan1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
